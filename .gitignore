@@ -1,0 +1,7 @@
+**/.env
+PROJECT-2-multi-cloud-deploy/terraform.tfvars
+PROJECT-2-multi-cloud-deploy/*.json
+PROJECT-2-multi-cloud-deploy/.terraform/
+PROJECT-2-multi-cloud-deploy/*.exe
+*.zip
+*.tar.gz
